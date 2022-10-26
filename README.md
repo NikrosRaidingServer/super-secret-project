@@ -9,3 +9,4 @@ This will eventually be ``NRS-Forums`` once it's finished.
 **everything**
 
 also @Indxgo is lazy, i literally am going to be doing all of the work :thumbsup:
+(indxgo approves of the message above)
