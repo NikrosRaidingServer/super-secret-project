@@ -8,5 +8,5 @@ This will eventually be ``NRS-Forums`` once it's finished.
 ## To-do
 **everything**
 
-also [@NikrosRaidingServer](https://github.com/NikrosRaidingServer) is lazy, i literally am going to be doing all of the work :thumbsup:  
+also [@NikrosRaidingServer](https://github.com/NikrosRaidingServer) is lazy, so [@OIympian](https://github.com/OIympian) is literally going to be doing all of the work :thumbsup:  
 (indxgo approves of the message above)
